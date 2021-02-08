@@ -4,3 +4,13 @@ body {
     font-family: 'Abel', sans-serif;
     background-color: rgba(1, 19, 2, 0.486);
 }
+
+/* HEADER */
+
+header {
+    background-image: url("img/matrix.jpg");
+}
+
+#logo {
+    width: 250px;
+}
