@@ -19,8 +19,6 @@ header {
 .container {
     width: 50%;
     margin: 50px auto;
-
-
 }
 
 /* Colours */
@@ -55,4 +53,24 @@ table{
   }
   
   .different-data{
-    background-color: grey}
+    background-color: grey
+}
+
+/*YOU MAY BE INTEREST*/
+
+.may-interest{
+    font-size: 15px;
+    font-weight: bold;
+    color: white;
+    background-size: cover;
+    width: 180px;
+    height: 120px;
+}
+
+.monitor {
+    background-image: url("img/monitor.jpg");
+}
+
+.graph {
+    background-image:url("img/graph.jpg");
+}
