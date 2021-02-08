@@ -14,3 +14,16 @@ header {
 #logo {
     width: 250px;
 }
+
+/* MAIN */
+.container {
+    width: 50%;
+    margin: 50px auto;
+
+
+}
+
+/* Colours */
+.color-white {
+    color: whitesmoke;
+}
