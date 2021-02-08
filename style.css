@@ -12,7 +12,7 @@ header {
 }
 
 #logo {
-    width: 250px;
+    width: 150px;
 }
 
 /* MAIN */
@@ -28,13 +28,17 @@ header {
     color: whitesmoke;
 }
 
-.color-green {
+.color-green{
     color: green;
 }
+
+/* IMG */
 
 img {
     width: 200px;
 }
+
+/*TABLE*/
 
 table{
     border-collapse: collapse;
