@@ -31,3 +31,7 @@ header {
 .color-green {
     color: green;
 }
+
+img {
+    width: 200px;
+}
